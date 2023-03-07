@@ -1,0 +1,172 @@
+.headerwrapper{
+    display: flex;
+}
+.main-nav{
+    display: flex;
+    margin-top: 29.9px;
+    margin-left: 730px;
+    font-size: 16px;
+    width: 499px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.logo{
+    margin-left: 250px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.main-section{
+    width: 1360px;
+    height: 650px;
+    background: #08aeea;
+    margin: 0 auto;
+}
+.image-div{
+    width: 588px;
+    height: 129px;
+    position: relative;
+}
+.text-on-image{
+    width: 588px;
+    height: 129px;
+    position: relative;
+    margin: 184px 679px 255px 93px;
+}
+.discover{
+    width: 588px;
+    height: 60px;
+    font-size: 78px;
+    color: #fff;
+}
+.travel{
+    width: 314px;
+    height: 14px;
+    font-size: 18px;
+    color: #fff;
+    position: absolute;
+    margin-top: 54px;
+    padding-left: 95px;
+    padding-right: 152px;
+}
+.container-div{
+    width: 1173px;
+    height: 677px;
+    display: flex;
+    margin: 79px auto 0 ;
+}
+.main-block-div{
+    width: 241px;
+    height: 242px;
+    margin: 0 58px 533px 0;
+}
+.discover2{
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.h4{
+    font-size: 26px;
+    margin-top: 14px;
+    color: #1A1A1B;
+}
+.main-block-text{
+    height: 145px;
+    width: 242px;
+    font-size: 16px;
+    text-align: left;
+    line-height: 22px;
+    font-weight: 500;
+    color: #8D8D8D;
+    margin-top: 39px;
+}
+.right-main-div{
+    width: 900px;
+    height: 675px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 270px;
+    height: 327px;
+}
+.image1-div{
+    position: relative;
+    width: 151px;
+    height: 14px;
+}
+.div-class-h3{
+    position: absolute;
+    width: 150px;
+    height: 14px;
+    color: #1A1A1B;
+    font-size: 18px;
+    padding: 24px 82px 144px 35px;
+    display: flex;
+    flex-direction: column;
+}
+.box1-text{
+    width: 266px;
+    height: 93px;
+    margin: 36px 33px 22px 0;
+    color: #8D8D8D;
+    font-size: 16px;
+    text-align: left;
+    line-height: 22px;
+}
+.hotel-h4{
+    width: 272px;
+    height: 14px;
+    margin-top: 16px;
+    font-size: 18px;
+    color: #1A1A1B;
+}
+.box2-text{
+    margin-top: 10px;
+    width: 268px;
+    height: 93px;
+    color: #8D8D8D;
+    font-size: 16px;
+    text-align: left;
+    line-height: 22px;
+}
+.box3-h3{
+    width: 195px;
+    height: 14px;
+    font-size: 18px;
+    color: #1A1A1B;
+}
+.fire-h3{
+    width: 95px;
+    height: 14px;
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 17px;
+}
+.box5-text{
+    margin-top: 10px;
+    width: 268px;
+    height: 94px;
+    color: #8D8D8D;
+    font-size: 16px;
+    text-align: left;
+    line-height: 22px;
+}
+.corporate-h3{
+    width: 200px;
+    height: 14px;
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 17px;
+}
+.box6-text{
+    margin-top: 10px;
+    width: 268px;
+    height: 94px;
+    color: #8D8D8D;
+    font-size: 16px;
+    text-align: left;
+    line-height: 22px;
+}
+.box1{
+    display: block;
+}
